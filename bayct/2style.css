@@ -212,12 +212,12 @@ hr{
     
   }
   .sixth img{
-     width: 340px;
+     width: 30%;
   }
   img{
     overflow-clip-margin: content-box;
     overflow: clip;
-    width: 40px;
+    width: 30%;
   }
   
   hr{
