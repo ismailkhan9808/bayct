@@ -217,6 +217,7 @@ hr{
   img{
     overflow-clip-margin: content-box;
     overflow: clip;
+    width: 40px;
   }
   
   hr{
