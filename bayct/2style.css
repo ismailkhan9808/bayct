@@ -168,7 +168,7 @@ button{
     display: inline-block;
    
     align-items: flex-start;
-    cursor: default;
+    cursor: pointer;
     box-sizing: border-box;
    
     margin: 0em;
