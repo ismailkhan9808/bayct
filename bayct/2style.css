@@ -194,6 +194,7 @@ hr{
   word-spacing: 3px;
   line-height: 25px;
   justify-content: space-between;
+  display: flex;
  }
  #p2 h1{
     font-weight: bolder;
