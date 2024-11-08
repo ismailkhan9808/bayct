@@ -183,7 +183,7 @@ hr{
  .sixth{
     display: flex;
     justify-content: space-between;
-    unicode-bidi: isolate;
+    
     margin: 30px;
     color: white;
     font-family:url(font/Montserrat-VariableFont_wght.ttf) ;
@@ -194,7 +194,7 @@ hr{
   word-spacing: 3px;
   line-height: 25px;
   justify-content: space-between;
-  display: flex;
+ 
  }
  #p2 h1{
     font-weight: bolder;
