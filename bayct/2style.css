@@ -297,30 +297,42 @@ b{
 .ten{
   display: flex;
   color: white;
-
+ .mainn{
+    display: flex;
+    margin: 30px;
+    flex-direction: column;
+    word-spacing: 5px;
+    color: white;
+    font-family: url(font/Montserrat-VariableFont_wght.ttf);
+    font-size: 20px;
+  
+ }
 
 }
 .q{
   display: flex;
   margin-left: 20px;
   margin-right: 20px;
-  flex-direction: column;
+ 
 }
 .q>h1{
   font-size: 17px;
   color: greenyellow;
   margin-right: 20px;
+  flex-direction: column;
 }
 .q>p{
   text-align: left;
   font-size: 18px;
+  flex-direction: column;
 }
 strike{
   text-decoration: line-through;
 }
 .ten img{
-  height: 350px;
+  height: 400px;
   background-color: rgb(211, 230, 44);
+  width: 350px;
 }
 img{
   overflow-clip-margin: content-box;
