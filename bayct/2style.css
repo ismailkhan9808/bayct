@@ -175,6 +175,10 @@ button{
     padding-block: 1px;
     padding-inline: 6px;
 }
+.hover button{
+  color:white;
+  font-color:black;
+}
 hr{
   margin-top: 40px;
   margin-left: 30px;
